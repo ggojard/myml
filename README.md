@@ -11,7 +11,7 @@
  - TensorFlow 0.8.0
 - Node >=4.0
 
-### Setup ###
+### Setup ### 
 
     $ pip install -r requirements.txt
     $ npm install
